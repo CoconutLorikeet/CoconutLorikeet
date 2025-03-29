@@ -1,3 +1,5 @@
+# Github
+
 ## Headline
 
 Front-End Engineer
@@ -28,7 +30,7 @@ Front-End Engineer
 | <b>Indeed</b> | [https://profile.indeed.com/p/khaledn-w549tyk](https://profile.indeed.com/p/khaledn-w549tyk) |
 | <b>Phone (Mobile)</b> | <a href="tel:+66958324148">+66 9 5832 4148</a> |
 | <b>Signal</b> | <a href="https://signal.me/#eu/RYGluyAvhTimh6ocRIcsoBRb_aY5Zic8fXGAVjkMqhIM3F3SrFZMbZmzD_Busuyw">+66 9 5832 4148</a> <br /><br /> ![Whatsapp](./Assets/KhaledNobaniSignalUsernameQRCode.png) |
-| <b>Whatsapp</b> | <a href="callto://66958324148">+66 9 5832 4148</a> <br /><br /> ![Whatsapp](./Assets/KhaledWhatsapp.png) |
+| <b>Whatsapp</b> | <a href="https://wa.me/qr/HAZS4C5PDIIFA1">+66 9 5832 4148</a> <br /><br /> ![Whatsapp](./Assets/KhaledWhatsapp.png) |
 
 ## Skills
 
