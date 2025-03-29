@@ -4,30 +4,31 @@ Front-End Engineer
 
 ## About Me
 
-Highly skilled Senior Front-End Engineer with up to 9 years of experience delivering web application solutions, from concept to deployment. Successfully collaborated with cross- functional teams to transform UI/UX designs into high-traffic web applications serving thousands of daily visitors. Certified UX Designer from the Interaction Design Foundation with a proven track record of creating user-friendly interfaces through successful freelance projects.
+<b>Senior Front-End Engineer</b> offering nine years of comprehensive experience in the full lifecycle of web application development. Demonstrated success in collaborating with cross-functional teams to deliver innovative solutions, transforming UI/UX designs into high-traffic applications that consistently meet the needs of thousands of daily users. Core competencies include Certified UX Design, complemented by a strong freelance portfolio that showcases a commitment to creating intuitive and user-friendly interfaces.
 
 ## Featured Projects
 
 ### Gallery
-<b>Gallery</b>: (https://github.com/KhaledNobani/Gallery) -  A photo gallery with an alternate view mode - jQuery Plugin. An alternate view allows users to switch the gallery view mode to either a thumbnail list or a filmstrip view.
+<b>Gallery</b>: (https://github.com/CoconutLorikeet/Gallery) -  A photo gallery with an alternate view mode - jQuery Plugin. An alternate view allows users to switch the gallery view mode to either a thumbnail list or a filmstrip view.
 
 ### Angular Google Maps
-<b>Angular Google Maps</b>: (https://github.com/KhaledNobani/ang-google-maps) -  Initialize Initialize Google Maps, set location, drop pins, add Google Directions, and more.
+<b>Angular Google Maps</b>: (https://github.com/CoconutLorikeet/ang-google-maps) -  Initialize Initialize Google Maps, set location, drop pins, add Google Directions, and more.
 
 ### Angular Google Services
-<b>Angular Google Maps</b>: (https://github.com/khalednobani/ang-google-services) -  Consuming Google's API services.
+<b>Angular Google Maps</b>: (https://github.com/CoconutLorikeet/ang-google-services) -  Consuming Google's API services.
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledNobani&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CoconutLorikeet&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
 
-- <b>Contact Us</b>: Reach out with any questions or inquiries (khalednobani@proton.me).
-<br />
-- <b>Connect</b> with us on <b>LinkedIn</b> https://linkedin.com/in/KhaledNobani.
-<br />
-- <b>Connect</b> with us on <b>Signal</b> https://signal.me/#eu/HFmk9hUssgZhQsaPSbZrTpbOmIP4MnuXLYaNtgvnR7725wjvlepJc51nl6laoOF5.
-<br />
+| Channel | Information |
+|---|---|
+| <b>Email</b>: | [khalednobani@proton.me](mailto://khalednobani@proton.me) |
+| <b>Indeed</b> | [https://profile.indeed.com/p/khaledn-w549tyk](https://profile.indeed.com/p/khaledn-w549tyk) |
+| <b>Phone (Mobile)</b> | <a href="callto://66958324148">+66 9 5832 4148</a> |
+| <b>Signal</b> | <a href="https://signal.me/#eu/RYGluyAvhTimh6ocRIcsoBRb_aY5Zic8fXGAVjkMqhIM3F3SrFZMbZmzD_Busuyw">+66 9 5832 4148</a> <br /><br /> ![Whatsapp](./Assets/KhaledNobaniSignalUsernameQRCode.png) |
+| <b>Whatsapp</b> | <a href="callto://66958324148">+66 9 5832 4148</a> <br /><br /> ![Whatsapp](./Assets/KhaledWhatsapp.png) |
 
 ## Skills
 
